@@ -1,8 +1,9 @@
 import React from 'react'
-
 function pages() {
   return (
-    <div>pages</div>
+    <>
+    <h1>pages</h1>
+    </>
   )
 }
 
